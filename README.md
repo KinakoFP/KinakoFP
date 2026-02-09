@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bienvenue sur mon profil</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="300" width="100%"/>
 </div>
 
 <h2 align="left">💻 Technologies & Outils</h2>
@@ -24,5 +24,5 @@
 <h2 align="left"></h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
