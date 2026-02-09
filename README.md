@@ -31,22 +31,15 @@
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>⚡ Languages</b><br>
-        <sub>HTML • CSS • PHP • JavaScript<br>Python • C • C++</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>🛠️ Tools</b><br>
-        <sub>Git • GitHub • Nginx<br>Node.js • Terminal</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>💻 IDEs</b><br>
-        <sub>VS Code • PhpStorm<br>Visual Studio</sub>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <code>⚡ Languages</code> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>PHP</kbd> <kbd>JavaScript</kbd> <kbd>Python</kbd> <kbd>C</kbd> <kbd>C++</kbd>
+  </p>
+  <p>
+    <code>🛠️ Tools</code> <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Nginx</kbd> <kbd>Node.js</kbd> <kbd>Terminal</kbd>
+  </p>
+  <p>
+    <code>💻 IDEs</code> <kbd>VS Code</kbd> <kbd>PhpStorm</kbd> <kbd>Visual Studio</kbd>
+  </p>
 </div>
 
 <h2 align="left"></h2>
