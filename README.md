@@ -4,11 +4,11 @@
   <img src="https://wallpapercave.com/wp/wp7613151.jpg"/>
 </div>
 
-<h2 align="left">🧑‍💻 Skills</h2>
+<h2 align="left">⚡ Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,php,vscode,powershell,py,jquery,js,c,symfony,nodejs,linux,mongodb,mysql,nginx,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,php,vscode,powershell,py,jquery,js,c,symfony,nodejs,linux,mongodb,mysql,nginx,sublime&theme=dark)](https://skillicons.dev)
 
-<p align="left">🖥️ Languages - HTML | CSS | PHP | JS<br>🛠️ Tools - Git | GitHub | Nginx<br>🤖 IDEs - PhpStorm | Visual Studio</p>
+<p align="left">▪️ Languages - HTML | CSS | PHP | JS<br>▪️ Tools - Git | GitHub | Nginx<br>▪️ IDEs - PhpStorm | Visual Studio</p>
 
 <h2 align="left"></h2>
 
