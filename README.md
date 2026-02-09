@@ -1,28 +1,17 @@
-<h1 align="center">👋 Bienvenue sur mon profil</h1>
+<h1 align="Center"></h1>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="300" width="100%"/>
+  <img src="https://i.pinimg.com/originals/4b/28/1b/4b281bf29cec0b997e7f1618bad94460.gif"/>
 </div>
 
-<h2 align="left">💻 Technologies & Outils</h2>
+<h2 align="left">🧑‍💻 Skills</h2>
 
-[![Technologies](https://skillicons.dev/icons?i=js,ts,react,vue,python,docker,git,github,vscode,postgresql,redis,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,php,vscode,powershell,py,jquery,js,c,symfony,nodejs,linux,mongodb,mysql,nginx,sublime)](https://skillicons.dev)
 
-<p align="left">
-  📋 Languages - JavaScript | TypeScript | Python<br>
-  ⚡ Frameworks - React | Vue.js | Node.js<br>
-  🗄️ Databases - PostgreSQL | MongoDB | Redis<br>
-  🔧 DevOps - Docker | Git | Linux
-</p>
-
-<h2 align="left">📊 Statistiques GitHub</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+<p align="left">🖥️ Languages - HTML | CSS | PHP | JS<br>🛠️ Tools - Git | GitHub | Nginx<br>🤖 IDEs - PhpStorm | Visual Studio</p>
 
 <h2 align="left"></h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center" >
+  <img src="https://raw.githubusercontent.com/Link-Wolf/Link-Wolf/output/snake.svg" alt="Snake animation" />
 </div>
