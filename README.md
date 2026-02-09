@@ -1,7 +1,7 @@
 <h1 align="Center"></h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/4b/28/1b/4b281bf29cec0b997e7f1618bad94460.gif"/>
+  <img src="[https://i.pinimg.com/originals/4b/28/1b/4b281bf29cec0b997e7f1618bad94460.gif](https://wallpapercave.com/wp/wp7613151.jpg)"/>
 </div>
 
 <h2 align="left">🧑‍💻 Skills</h2>
