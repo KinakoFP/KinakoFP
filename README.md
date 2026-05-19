@@ -131,9 +131,10 @@ current:
 <br/>
 <br/>
 
-<img src="./assets/stats-card.svg" alt="stats"/>
-&nbsp;
-<img src="./assets/langs-card.svg" alt="languages"/>
+<table align="center"><tr>
+<td><img src="./assets/stats-card.svg" alt="stats" width="420"/></td>
+<td><img src="./assets/langs-card.svg" alt="languages" width="420"/></td>
+</tr></table>
 
 <br/>
 <br/>
