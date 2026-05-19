@@ -131,49 +131,24 @@ current:
 <br/>
 <br/>
 
-<img src="https://img.shields.io/github/followers/KinakoFP?style=for-the-badge&logo=github&logoColor=e8e3d6&color=0d0d0d&labelColor=0d0d0d&label=FOLLOWERS"/>
+<img src="./assets/stats-card.svg" alt="stats"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/KinakoFP?style=for-the-badge&logo=githubsponsors&logoColor=e8e3d6&color=0d0d0d&labelColor=0d0d0d&label=STARS"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=KinakoFP&style=for-the-badge&color=0d0d0d&labelColor=0d0d0d&label=VISITORS"/>
+<img src="./assets/langs-card.svg" alt="languages"/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/KinakoFP">
-  <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg"/>
-</a>
-<a href="https://github.com/KinakoFP">
-  <img src="./profile-summary-card-output/nord_dark/3-stats.svg"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/KinakoFP">
-  <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
-</a>
-<a href="https://github.com/KinakoFP">
-  <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg"/>
-</a>
+<img src="./assets/streak.svg" alt="streak"/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/KinakoFP">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KinakoFP&hide_border=true&background=0d0d0d&stroke=1f1f1f&ring=e8e3d6&fire=e8e3d6&currStreakLabel=e8e3d6&sideLabels=9a9690&currStreakNum=e8e3d6&sideNums=e8e3d6&dates=6a665f"/>
-</a>
+<img src="./assets/trophies.svg" alt="trophies"/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/KinakoFP">
-  <img src="https://github-profile-trophy.vercel.app/?username=KinakoFP&theme=algolia&no-bg=true&no-frame=true&margin-w=8&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews"/>
-</a>
-
-<br/>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KinakoFP&bg_color=0d0d0d&color=e8e3d6&line=e8e3d6&point=ffffff&area=true&area_color=1f1f1f&hide_border=true&radius=8&custom_title=%E2%80%94%20contribution%20rhythm%20%E2%80%94"/>
+<img src="./assets/activity.svg" alt="contribution rhythm"/>
 
 </div>
 
