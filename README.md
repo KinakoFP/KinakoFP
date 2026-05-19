@@ -14,8 +14,6 @@
   &nbsp;<code>~/</code> &nbsp;welcome&nbsp;<code>_</code>
 </h1>
 
-<p><i>"in the quiet hours, code becomes poetry."</i></p>
-
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=black&label=VISITORS)
@@ -180,23 +178,12 @@ current:
 ### 　 ☾ 　 E L S E W H E R E 　 ☽ 　
 
 <br/>
+<br/>
 
-<a href="#"><img src="https://img.shields.io/badge/-discord-101010?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010"/></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/-twitter-101010?style=for-the-badge&logo=x&logoColor=white&labelColor=101010"/></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/-mail-101010?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101010"/></a>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600" alt="dino"/>
 
 <br/>
 <br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="320" alt="dino"/>
-
-<br/>
-<br/>
-
-<sub><code>// thanks for stopping by — don't be a stranger.</code></sub>
 
 <br/>
 <br/>
