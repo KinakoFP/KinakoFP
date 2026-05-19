@@ -1,70 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 130" width="880" height="130" font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;SF Mono&#39;, Menlo, Consolas, monospace">
-  
-
-  
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 130" width="850" height="130" font-family="ui-monospace, &#39;SF Mono&#39;, &#39;JetBrains Mono&#39;, Menlo, Consolas, monospace">
   
   
 
-  
-  <g transform="translate(8,8)">
-    <rect class="card" x="0.5" y="0.5" width="115" height="109" rx="6"></rect>
-    <circle class="icn" cx="58" cy="38" r="20"></circle>
-    <text class="glyph" x="58" y="43" text-anchor="middle">★</text>
-    <text class="ttl" x="58" y="78" text-anchor="middle">STARS</text>
-    <text class="rnk" x="58" y="96" text-anchor="middle">RANK · A</text>
-  </g>
-
-  
-  <g transform="translate(130,8)">
-    <rect class="card" x="0.5" y="0.5" width="115" height="109" rx="6"></rect>
-    <circle class="icn" cx="58" cy="38" r="20"></circle>
-    <text class="glyph" x="58" y="43" text-anchor="middle">⌥</text>
-    <text class="ttl" x="58" y="78" text-anchor="middle">COMMITS</text>
-    <text class="rnk" x="58" y="96" text-anchor="middle">RANK · A+</text>
-  </g>
-
-  
-  <g transform="translate(252,8)">
-    <rect class="card" x="0.5" y="0.5" width="115" height="109" rx="6"></rect>
-    <circle class="icn" cx="58" cy="38" r="20"></circle>
-    <text class="glyph" x="58" y="43" text-anchor="middle">⤴</text>
-    <text class="ttl" x="58" y="78" text-anchor="middle">PR</text>
-    <text class="rnk" x="58" y="96" text-anchor="middle">RANK · B</text>
-  </g>
-
-  
-  <g transform="translate(374,8)">
-    <rect class="card" x="0.5" y="0.5" width="115" height="109" rx="6"></rect>
-    <circle class="icn" cx="58" cy="38" r="20"></circle>
-    <text class="glyph" x="58" y="43" text-anchor="middle">◯</text>
-    <text class="ttl" x="58" y="78" text-anchor="middle">ISSUES</text>
-    <text class="rnk" x="58" y="96" text-anchor="middle">RANK · B</text>
-  </g>
-
-  
-  <g transform="translate(496,8)">
-    <rect class="card" x="0.5" y="0.5" width="115" height="109" rx="6"></rect>
-    <circle class="icn" cx="58" cy="38" r="20"></circle>
-    <text class="glyph" x="58" y="43" text-anchor="middle">▣</text>
-    <text class="ttl" x="58" y="78" text-anchor="middle">REPOS</text>
-    <text class="rnk" x="58" y="96" text-anchor="middle">RANK · A</text>
-  </g>
-
-  
-  <g transform="translate(618,8)">
-    <rect class="card" x="0.5" y="0.5" width="115" height="109" rx="6"></rect>
-    <circle class="icn" cx="58" cy="38" r="20"></circle>
-    <text class="glyph" x="58" y="43" text-anchor="middle">⌘</text>
-    <text class="ttl" x="58" y="78" text-anchor="middle">REVIEWS</text>
-    <text class="rnk" x="58" y="96" text-anchor="middle">RANK · B</text>
-  </g>
-
-  
-  <g transform="translate(740,8)">
-    <rect class="card" x="0.5" y="0.5" width="115" height="109" rx="6"></rect>
-    <circle class="icn" cx="58" cy="38" r="20"></circle>
-    <text class="glyph" x="58" y="43" text-anchor="middle">✦</text>
-    <text class="ttl" x="58" y="78" text-anchor="middle">FOLLOWERS</text>
-    <text class="rnk" x="58" y="96" text-anchor="middle">RANK · S</text>
+  <g>
+    
+    <g transform="translate(8,8)">
+      <rect x="0.5" y="0.5" width="111" height="109" rx="6" fill="#0d0d0d" stroke="#1f1f1f"></rect>
+      <circle cx="56" cy="38" r="20" fill="#e8e3d6"></circle>
+      <text x="56" y="44" text-anchor="middle" fill="#0d0d0d" font-size="18" font-weight="700">★</text>
+      <text x="56" y="78" text-anchor="middle" fill="#e8e3d6" font-size="11" letter-spacing="1.2">STARS</text>
+      <text x="56" y="96" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="0.6">RANK · A</text>
+    </g>
+    
+    <g transform="translate(126,8)">
+      <rect x="0.5" y="0.5" width="111" height="109" rx="6" fill="#0d0d0d" stroke="#1f1f1f"></rect>
+      <circle cx="56" cy="38" r="20" fill="#e8e3d6"></circle>
+      <text x="56" y="45" text-anchor="middle" fill="#0d0d0d" font-size="20" font-weight="700">⚙</text>
+      <text x="56" y="78" text-anchor="middle" fill="#e8e3d6" font-size="11" letter-spacing="1.2">COMMITS</text>
+      <text x="56" y="96" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="0.6">RANK · A+</text>
+    </g>
+    
+    <g transform="translate(244,8)">
+      <rect x="0.5" y="0.5" width="111" height="109" rx="6" fill="#0d0d0d" stroke="#1f1f1f"></rect>
+      <circle cx="56" cy="38" r="20" fill="#e8e3d6"></circle>
+      <text x="56" y="44" text-anchor="middle" fill="#0d0d0d" font-size="20" font-weight="700">↗</text>
+      <text x="56" y="78" text-anchor="middle" fill="#e8e3d6" font-size="11" letter-spacing="1.2">PR</text>
+      <text x="56" y="96" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="0.6">RANK · B</text>
+    </g>
+    
+    <g transform="translate(362,8)">
+      <rect x="0.5" y="0.5" width="111" height="109" rx="6" fill="#0d0d0d" stroke="#1f1f1f"></rect>
+      <circle cx="56" cy="38" r="20" fill="#e8e3d6"></circle>
+      <circle cx="56" cy="38" r="9" fill="none" stroke="#0d0d0d" stroke-width="2.5"></circle>
+      <text x="56" y="78" text-anchor="middle" fill="#e8e3d6" font-size="11" letter-spacing="1.2">ISSUES</text>
+      <text x="56" y="96" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="0.6">RANK · B</text>
+    </g>
+    
+    <g transform="translate(480,8)">
+      <rect x="0.5" y="0.5" width="111" height="109" rx="6" fill="#0d0d0d" stroke="#1f1f1f"></rect>
+      <circle cx="56" cy="38" r="20" fill="#e8e3d6"></circle>
+      <rect x="48" y="30" width="16" height="16" fill="#0d0d0d"></rect>
+      <text x="56" y="78" text-anchor="middle" fill="#e8e3d6" font-size="11" letter-spacing="1.2">REPOS</text>
+      <text x="56" y="96" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="0.6">RANK · A</text>
+    </g>
+    
+    <g transform="translate(598,8)">
+      <rect x="0.5" y="0.5" width="111" height="109" rx="6" fill="#0d0d0d" stroke="#1f1f1f"></rect>
+      <circle cx="56" cy="38" r="20" fill="#e8e3d6"></circle>
+      
+      <path d="M47 38 L54 45 L66 32" stroke="#0d0d0d" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+      <text x="56" y="78" text-anchor="middle" fill="#e8e3d6" font-size="11" letter-spacing="1.2">REVIEWS</text>
+      <text x="56" y="96" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="0.6">RANK · B</text>
+    </g>
+    
+    <g transform="translate(716,8)">
+      <rect x="0.5" y="0.5" width="111" height="109" rx="6" fill="#0d0d0d" stroke="#1f1f1f"></rect>
+      <circle cx="56" cy="38" r="20" fill="#e8e3d6"></circle>
+      
+      <path d="M56 26 L59.5 35 L69 35.5 L61.5 41.5 L64 51 L56 45.5 L48 51 L50.5 41.5 L43 35.5 L52.5 35 Z" fill="#0d0d0d"></path>
+      <text x="56" y="78" text-anchor="middle" fill="#e8e3d6" font-size="11" letter-spacing="1.2">FOLLOWERS</text>
+      <text x="56" y="96" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="0.6">RANK · S</text>
+    </g>
   </g>
 </svg>

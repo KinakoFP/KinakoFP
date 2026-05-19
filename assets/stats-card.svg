@@ -1,32 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="495" height="195" font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;SF Mono&#39;, Menlo, Consolas, monospace">
-  
-  <rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="#0d0d0d" stroke="#1f1f1f"></rect>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 200" width="420" height="200" font-family="ui-monospace, &#39;SF Mono&#39;, &#39;JetBrains Mono&#39;, Menlo, Consolas, monospace">
+  <rect x="0.5" y="0.5" width="419" height="199" rx="8" fill="#0d0d0d" stroke="#1f1f1f"></rect>
 
-  
   <circle cx="24" cy="28" r="3" fill="#e8e3d6"></circle>
   <text x="36" y="32" fill="#e8e3d6" font-size="14" font-weight="500" letter-spacing="0.5">KinakoFP&#39;s stats</text>
 
-  
-  <g font-size="13">
-    <g transform="translate(24,66)">
+  <g font-size="12">
+    <g transform="translate(24,68)">
       <text fill="#9a9690">Total Stars Earned:</text>
-      <text x="447" text-anchor="end" fill="#e8e3d6">412</text>
+      <text x="372" text-anchor="end" fill="#e8e3d6">412</text>
     </g>
-    <g transform="translate(24,90)">
+    <g transform="translate(24,94)">
       <text fill="#9a9690">Total Commits (2026):</text>
-      <text x="447" text-anchor="end" fill="#e8e3d6">1,847</text>
+      <text x="372" text-anchor="end" fill="#e8e3d6">1,847</text>
     </g>
-    <g transform="translate(24,114)">
+    <g transform="translate(24,120)">
       <text fill="#9a9690">Total PRs:</text>
-      <text x="447" text-anchor="end" fill="#e8e3d6">96</text>
+      <text x="372" text-anchor="end" fill="#e8e3d6">96</text>
     </g>
-    <g transform="translate(24,138)">
+    <g transform="translate(24,146)">
       <text fill="#9a9690">Total Issues:</text>
-      <text x="447" text-anchor="end" fill="#e8e3d6">38</text>
+      <text x="372" text-anchor="end" fill="#e8e3d6">38</text>
     </g>
-    <g transform="translate(24,162)">
+    <g transform="translate(24,172)">
       <text fill="#9a9690">Contributed to (last year):</text>
-      <text x="447" text-anchor="end" fill="#e8e3d6">14</text>
+      <text x="372" text-anchor="end" fill="#e8e3d6">14</text>
     </g>
   </g>
 </svg>
