@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 195" width="380" height="195" font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;SF Mono&#39;, Menlo, Consolas, monospace">
+  <rect x="0.5" y="0.5" width="379" height="194" rx="8" fill="#0d0d0d" stroke="#1f1f1f"></rect>
+
+  <circle cx="24" cy="28" r="3" fill="#e8e3d6"></circle>
+  <text x="36" y="32" fill="#e8e3d6" font-size="14" font-weight="500" letter-spacing="0.5">most used languages</text>
+
+  
+  
+  <g font-size="12">
+    
+    <g transform="translate(24,62)">
+      <text fill="#cfc9bd">JavaScript</text>
+      <rect x="100" y="-8" width="200" height="5" rx="2.5" fill="#1a1a1a"></rect>
+      <rect x="100" y="-8" width="76" height="5" rx="2.5" fill="#e8e3d6"></rect>
+      <text x="332" fill="#6e7681" text-anchor="end">38%</text>
+    </g>
+    
+    <g transform="translate(24,84)">
+      <text fill="#cfc9bd">PHP</text>
+      <rect x="100" y="-8" width="200" height="5" rx="2.5" fill="#1a1a1a"></rect>
+      <rect x="100" y="-8" width="44" height="5" rx="2.5" fill="#e8e3d6"></rect>
+      <text x="332" fill="#6e7681" text-anchor="end">22%</text>
+    </g>
+    
+    <g transform="translate(24,106)">
+      <text fill="#cfc9bd">Python</text>
+      <rect x="100" y="-8" width="200" height="5" rx="2.5" fill="#1a1a1a"></rect>
+      <rect x="100" y="-8" width="30" height="5" rx="2.5" fill="#e8e3d6"></rect>
+      <text x="332" fill="#6e7681" text-anchor="end">15%</text>
+    </g>
+    
+    <g transform="translate(24,128)">
+      <text fill="#cfc9bd">HTML</text>
+      <rect x="100" y="-8" width="200" height="5" rx="2.5" fill="#1a1a1a"></rect>
+      <rect x="100" y="-8" width="22" height="5" rx="2.5" fill="#e8e3d6"></rect>
+      <text x="332" fill="#6e7681" text-anchor="end">11%</text>
+    </g>
+    
+    <g transform="translate(24,150)">
+      <text fill="#cfc9bd">C++</text>
+      <rect x="100" y="-8" width="200" height="5" rx="2.5" fill="#1a1a1a"></rect>
+      <rect x="100" y="-8" width="16" height="5" rx="2.5" fill="#e8e3d6"></rect>
+      <text x="332" fill="#6e7681" text-anchor="end">8%</text>
+    </g>
+    
+    <g transform="translate(24,172)">
+      <text fill="#cfc9bd">CSS</text>
+      <rect x="100" y="-8" width="200" height="5" rx="2.5" fill="#1a1a1a"></rect>
+      <rect x="100" y="-8" width="12" height="5" rx="2.5" fill="#e8e3d6"></rect>
+      <text x="332" fill="#6e7681" text-anchor="end">6%</text>
+    </g>
+  </g>
+</svg>
