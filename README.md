@@ -131,12 +131,29 @@ current:
 <br/>
 <br/>
 
-<a href="https://github.com/KinakoFP">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=KinakoFP&show_icons=true&hide_border=true&title_color=e8e3d6&icon_color=e8e3d6&text_color=9a9690&bg_color=0d0d0d&include_all_commits=true&count_private=true&rank_icon=github"/>
-</a>
+<img src="https://img.shields.io/github/followers/KinakoFP?style=for-the-badge&logo=github&logoColor=e8e3d6&color=0d0d0d&labelColor=0d0d0d&label=FOLLOWERS"/>
 &nbsp;
+<img src="https://img.shields.io/github/stars/KinakoFP?style=for-the-badge&logo=githubsponsors&logoColor=e8e3d6&color=0d0d0d&labelColor=0d0d0d&label=STARS"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=KinakoFP&style=for-the-badge&color=0d0d0d&labelColor=0d0d0d&label=VISITORS"/>
+
+<br/>
+<br/>
+
 <a href="https://github.com/KinakoFP">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinakoFP&layout=compact&hide_border=true&title_color=e8e3d6&text_color=9a9690&bg_color=0d0d0d&langs_count=6"/>
+  <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+</a>
+<a href="https://github.com/KinakoFP">
+  <img src="./profile-summary-card-output/nord_dark/3-stats.svg"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/KinakoFP">
+  <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
+</a>
+<a href="https://github.com/KinakoFP">
+  <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg"/>
 </a>
 
 <br/>
