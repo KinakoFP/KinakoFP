@@ -14,12 +14,6 @@
   &nbsp;<code>~/</code> &nbsp;welcome&nbsp;<code>_</code>
 </h1>
 
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=black&label=VISITORS)
-![Status](https://img.shields.io/badge/STATUS-online-lightgrey?style=flat-square&labelColor=black)
-![Mood](https://img.shields.io/badge/MOOD-monochrome-lightgrey?style=flat-square&labelColor=black)
-
 </div>
 
 <br/>
