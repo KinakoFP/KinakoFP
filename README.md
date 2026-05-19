@@ -145,7 +145,7 @@ current:
 <br/>
 
 <a href="#">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KinakoFP&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=0d0d0d&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KinakoFP&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=0d0d0d&include_all_commits=false&count_private=false"/>
 </a>
 <a href="#">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinakoFP&layout=compact&hide_border=true&title_color=ffffff&text_color=cccccc&bg_color=0d0d0d&langs_count=8"/>
