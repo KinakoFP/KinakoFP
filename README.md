@@ -153,17 +153,17 @@ current:
 <br/>
 
 <a href="#">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=0d0d0d&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KinakoFP&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=0d0d0d&include_all_commits=true&count_private=true"/>
 </a>
 <a href="#">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&title_color=ffffff&text_color=cccccc&bg_color=0d0d0d&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinakoFP&layout=compact&hide_border=true&title_color=ffffff&text_color=cccccc&bg_color=0d0d0d&langs_count=8"/>
 </a>
 
 <br/>
 <br/>
 
 <a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&background=0d0d0d&stroke=2a2a2a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=ffffff&dates=666666"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KinakoFP&hide_border=true&background=0d0d0d&stroke=2a2a2a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=ffffff&dates=666666"/>
 </a>
 
 </div>
