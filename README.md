@@ -168,7 +168,7 @@ current:
 <br/>
 <br/>
 
-<sub><code>// thanks for stopping by — don't be a stranger.</code></sub>
+<sub><code>// You are an amazing guy... Natsuki Subaru.</code></sub>
 
 <br/>
 <br/>
