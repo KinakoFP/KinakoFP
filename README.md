@@ -31,7 +31,7 @@
 ```yaml
 identity:
   alias:     "~"
-  pronouns:  they / them
+  pronouns:  he / him
   location:  somewhere quiet
   timezone:  UTC±?
 
